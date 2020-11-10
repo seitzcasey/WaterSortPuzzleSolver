@@ -410,7 +410,7 @@ namespace WaterSortPuzzleSolver
                 return inMoves;
             };
 
-            Game.Render(currentState);
+            //Game.Render(currentState);
 
             Color[] MissingColors = ValidateTubes(currentState);
             
@@ -588,7 +588,7 @@ namespace WaterSortPuzzleSolver
                 EmptyTube = FindEmptyTube(stateCopy, EmptyTubeIgnore);
             }
 
-            Console.WriteLine("Path Failed. " + inMoves.Count.ToString());
+            //Console.WriteLine("Path Failed. " + inMoves.Count.ToString());
             return;
         }
 
