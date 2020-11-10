@@ -1,0 +1,7 @@
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\obj\Debug\WaterSortPuzzleSolver.csprojAssemblyReference.cache
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\obj\Debug\WaterSortPuzzleSolver.csproj.CoreCompileInputs.cache
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\bin\Debug\WaterSortPuzzleSolver.exe.config
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\bin\Debug\WaterSortPuzzleSolver.exe
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\bin\Debug\WaterSortPuzzleSolver.pdb
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\obj\Debug\WaterSortPuzzleSolver.exe
+G:\WaterSortPuzzleSolver\WaterSortPuzzleSolver\WaterSortPuzzleSolver\obj\Debug\WaterSortPuzzleSolver.pdb
